@@ -1,62 +1,227 @@
 {
-  "generatedAt": "2026-06-28T23:10:02.950Z",
+  "generatedAt": "2026-06-28T23:17:20.316Z",
   "owner": "dawnportinfo-design",
   "policy": "Do not mass-create empty country repositories. Create seeded repos only.",
   "firstWave": [
     {
       "repository": "agid-country-index",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-country-index",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-country-template",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-country-template",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-postal-country-pack-template",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-postal-country-pack-template",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-repository-governance",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-repository-governance",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-country-jp",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-country-jp",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-country-us",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-country-us",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-country-ca",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-country-ca",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-country-hk",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-country-hk",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-country-ae",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-country-ae",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-country-ke",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-country-ke",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     },
     {
       "repository": "agid-ocean",
-      "status": "create-now",
-      "requiresNonEmptySeed": true
+      "status": "created",
+      "owner": "dawnportinfo-design",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "url": "https://github.com/dawnportinfo-design/agid-ocean",
+      "requiresNonEmptySeed": true,
+      "seededFiles": [
+        "README.md",
+        "manifest.json",
+        "sources.json",
+        "rules.json",
+        "quality-gates.json",
+        "tests.json",
+        "DATA_LICENSES.md",
+        "scripts/validate.js",
+        ".github/workflows/validate.yml"
+      ]
     }
   ]
 }
