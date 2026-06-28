@@ -1,0 +1,36 @@
+{
+  "version": "agid-quality-gates-v1",
+  "requiredGates": [
+    {
+      "id": "no-personal-address-material",
+      "status": "required",
+      "severity": "blocker"
+    },
+    {
+      "id": "manifest-schema-valid",
+      "status": "required",
+      "severity": "blocker"
+    },
+    {
+      "id": "source-license-declared",
+      "status": "required",
+      "severity": "blocker"
+    },
+    {
+      "id": "breadcrumb-reconstruction-test",
+      "status": "required",
+      "severity": "major"
+    },
+    {
+      "id": "postal-status-declared",
+      "status": "required",
+      "severity": "major"
+    }
+  ],
+  "publicStatusVocabulary": [
+    "Ready",
+    "Partial",
+    "Preview",
+    "Manual required"
+  ]
+}

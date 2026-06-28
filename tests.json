@@ -1,0 +1,18 @@
+{
+  "version": "agid-tests-v1",
+  "fixturesUseSyntheticDataOnly": true,
+  "conformance": [
+    {
+      "id": "manifest-loads",
+      "expected": "pass"
+    },
+    {
+      "id": "breadcrumb-node-order",
+      "expected": "pass"
+    },
+    {
+      "id": "no-personal-address-material",
+      "expected": "pass"
+    }
+  ]
+}

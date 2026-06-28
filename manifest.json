@@ -1,0 +1,20 @@
+{
+  "version": "agid-pack-manifest-v1",
+  "repository": "agid-country-index",
+  "owner": "dawnportinfo-design",
+  "status": "seeded",
+  "createdFor": "AGID staged public repository rollout",
+  "storesPersonalAddressMaterial": false,
+  "heavyDataPolicy": "external-content-addressed-packs",
+  "defaultBranch": "main",
+  "kind": "global-index",
+  "scope": [
+    "countries",
+    "territories",
+    "autonomous-regions",
+    "disputed-regions",
+    "oceans"
+  ],
+  "canonicalPolicy": "All public repositories are staged through this index before creation. Empty repositories are avoided.",
+  "rolloutPrinciple": "Complete the world design table first; create GitHub repositories only when README, manifest, sources, rules, quality gates, tests, and privacy policy exist."
+}

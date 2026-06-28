@@ -1,0 +1,28 @@
+{
+  "version": "agid-rules-v1",
+  "addressModel": [
+    "country",
+    "admin1",
+    "admin2",
+    "locality",
+    "street_or_area",
+    "building_or_place",
+    "unit"
+  ],
+  "reconstruction": "Walk parentId breadcrumbs from the most specific node to the country or territory root, then render through formatProfiles.",
+  "privacy": {
+    "storePersonalAddresses": false,
+    "shareByDefault": [
+      "agid",
+      "alias",
+      "commitment",
+      "receipt",
+      "qualityStatus"
+    ]
+  },
+  "formatProfiles": [
+    "native",
+    "international-shipping",
+    "machine-readable"
+  ]
+}

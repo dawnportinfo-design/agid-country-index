@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-06-28T23:10:02.950Z",
+  "owner": "dawnportinfo-design",
+  "policy": "Do not mass-create empty country repositories. Create seeded repos only.",
+  "firstWave": [
+    {
+      "repository": "agid-country-index",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-country-template",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-postal-country-pack-template",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-repository-governance",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-country-jp",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-country-us",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-country-ca",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-country-hk",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-country-ae",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-country-ke",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    },
+    {
+      "repository": "agid-ocean",
+      "status": "create-now",
+      "requiresNonEmptySeed": true
+    }
+  ]
+}

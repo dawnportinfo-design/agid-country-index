@@ -1,0 +1,13 @@
+{
+  "version": "agid-sources-v1",
+  "policy": "Metadata only. Do not commit personal address records, private coordinates, or proprietary source dumps.",
+  "allowedSourceTypes": [
+    "official-open-data",
+    "openstreetmap-derived-metadata",
+    "overture-derived-metadata",
+    "manual-review-notes",
+    "synthetic-fixtures"
+  ],
+  "heavyDataExternal": true,
+  "sources": []
+}

@@ -1,0 +1,10 @@
+{
+  "name": "agid-country-index",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Safe AGID public repository seed with no personal address material.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "MIT"
+}
